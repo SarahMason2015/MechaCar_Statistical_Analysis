@@ -1,5 +1,3 @@
-# MechaCar_Statistical_Analysis
-
 
 **<h1>MechaCar </h1>**
 <h2>Linear Regression to Predict MPG</h2>
